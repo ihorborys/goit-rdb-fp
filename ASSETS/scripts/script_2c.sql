@@ -1,0 +1,1 @@
+ALTER TABLE infectious_cases DROP COLUMN Entity;

@@ -1,0 +1,1 @@
+ALTER TABLE infectious_cases MODIFY COLUMN Code VARCHAR(10);
